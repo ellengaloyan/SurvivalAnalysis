@@ -28,8 +28,9 @@ Find requirements.txt in the repository.
 
 ## Usage
 
-git clone https://github.com/ellengaloyan/SurvivalAnalysis.git
-pip install -r requirements.txt
+Clone the repository: git clone https://github.com/ellengaloyan/SurvivalAnalysis.git
+
+Install the requirements: pip install -r requirements.txt
 
 
 
